@@ -1,5 +1,7 @@
 # poweramp2mixxx
 
+![poweramp2mixxx Banner](assets/poweramp2mixxx-banner.png)
+
 `poweramp2mixxx` is a small Python command-line tool that imports star ratings
 from a Poweramp SQLite export into an existing Mixxx `mixxxdb.sqlite` database.
 
