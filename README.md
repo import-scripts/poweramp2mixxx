@@ -25,10 +25,25 @@ From a checkout of this repository:
 python -m pip install .
 ```
 
+If your system uses an externally managed Python environment (PEP 668), install
+in a local virtual environment instead:
+
+```bash
+python3 -m venv .venv
+. .venv/bin/activate
+python -m pip install .
+```
+
 The package installs the console command:
 
 ```bash
 poweramp2mixxx --help
+```
+
+With a local virtual environment, run:
+
+```bash
+.venv/bin/poweramp2mixxx --help
 ```
 
 You can also run it from source with:
