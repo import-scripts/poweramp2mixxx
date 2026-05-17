@@ -12,7 +12,6 @@ license = "GPL-2.0-or-later"
 authors = [{name = "import-scripts"}]
 classifiers = [
   "Programming Language :: Python :: 3",
-  "License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)",
   "Environment :: Console",
   "Topic :: Multimedia :: Sound/Audio",
 ]
